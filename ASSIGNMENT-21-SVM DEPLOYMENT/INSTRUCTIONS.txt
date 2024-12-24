@@ -1,0 +1,13 @@
+IN THESE SVM DEPLOYMENT : Pima Indian Diabetes Data is given. We need to predict if the respective person is Diabetic Person or Non-Diabetic Person. 
+
+   1) RUN python code [svm.ipynb] in jupyter notebook with pima dataset.
+   
+   2) THEN once this code is run, clf.pkl file will be created automatically & it will be saved in current working                                    directory. This clf.pkl file only for deployment purpose. 
+    
+   3) THEN run the code [svmapp.py] in spyder.
+
+   4) THEN by updating the location of where all these files are present in anaconda promt. 
+
+   5) LASTLY run this line in anaconda promt "streamlit run svmapp.py".
+
+            *THANK YOU*!!!
